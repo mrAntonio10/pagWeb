@@ -1,0 +1,103 @@
+
+body{
+    /*BORRAMOS EL ESPACIADO*/
+    margin: 0;
+	background-image: url(img/main.jpg);
+    background-repeat: no-repeat;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+input{
+    font-size: 20px;
+    text-align: center;
+}
+select{
+       font-size: 18px;
+    text-align: center;
+}
+table{
+    font-size: 30px;
+    text-align: center;
+}
+img{
+    border-color: black;
+    border-radius: 40px;
+    border-spacing: 0%;
+}
+h1{
+    text-shadow: -3px -3px 3px red, 3px -3px 3px lightgreen, -3px 3px 3px lightgreen;
+    font-family: Georgia;
+    background-image: url("https://media.giphy.com/media/1yMexMx6i6mtHBJoVr/giphy-downsized-large.gif");
+    height: 7%; 
+    text-align: center;
+	color: white;
+    box-shadow: 0 -3px #dc9af4 inset;      
+    background-attachment: fixed;
+}
+.ventana{
+    background: url(https://media.giphy.com/media/3o7bu196a4HQXLnS7u/giphy-downsized-large.gif);
+    background-repeat: no-repeat;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: fixed;
+    left: 40%;
+    top: 22%;
+    display: none;
+    color: white
+}
+#cerrar{
+    position: absolute;
+    right: 3px;
+    top: 1px;
+}
+.text-center{ 
+     text-align:center;
+color: #fff;
+font-family: Georgia;
+font-size: 30px;
+letter-spacing: 0;
+text-shadow: -3px -3px 3px #0000DF, 3px -3px 3px #0000DF, -3px 3px 3px #0000DF;
+}
+p {
+    margin: 1%;
+    border-radius: 40px;
+  width: 50%;
+  height: 30%;
+  border: 3px solid black;
+  padding: 30px 20px;
+  background-color: transparent;
+  background-image: url(img/fijo.jpg);
+  background-size: contain;
+background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+.text-final{
+    position: absolute;
+   width: 100%;
+    background-image: url("https://media.giphy.com/media/RlwF2vFb4y7bDnWvcO/giphy-downsized-large.gif");
+     text-align:center;
+color: #fff;
+font-family: Georgia;
+font-size: 40px;
+letter-spacing: 0;
+    text-shadow: -3px -3px 3px red, 3px -3px 3px lightgreen, -3px 3px 3px lightgreen;
+     box-shadow: 0  3px #dc9af4 inset;
+
+
+
+}
+.text-final-f{
+
+   width: 100%;
+   bottom: 0px;
+  font-size: 40px;
+}
+.text-center2{
+    color:  white;
+}
+

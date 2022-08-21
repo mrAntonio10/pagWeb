@@ -1,0 +1,12 @@
+<?php
+$user=$_COOKIE['USER'];
+$pass=$_COOKIE['PASS'];
+$db=$_COOKIE['DB'];
+
+$db_user="$user";
+$db_pass="$pass";
+$db_name="$db";
+
+
+$fechaO="04/30/2022";
+?>

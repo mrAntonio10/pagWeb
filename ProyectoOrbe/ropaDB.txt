@@ -1,0 +1,64 @@
+USUARIO: marcoro
+CONTRASEÑA: dbpass
+base: orbe
+
+
+
+insert into nombre_ropa (nombre_ropa) values ('Jogger');
+Insert into nombre_ropa (nombre_ropa) values ('Short');
+Insert into nombre_ropa (nombre_ropa) values ('Solera');
+insert into nombre_ropa (nombre_ropa) values ('Gorra');
+Insert into nombre_ropa (nombre_ropa) values ('Hoodie');
+insert into nombre_ropa (nombre_ropa) values ('Abrigo');
+Insert into nombre_ropa (nombre_ropa) values ('Camisa');
+insert into nombre_ropa (nombre_ropa) values ('Boxer');
+Insert into nombre_ropa (nombre_ropa) values ('Bufanda');
+insert into nombre_ropa (nombre_ropa) values ('Tanga');
+
+
+
+
+Insert into color_ropa (tipo_color) values('Rojo');
+Insert into color_ropa (tipo_color) values('Amarillo');
+Insert into color_ropa (tipo_color) values('Verder');
+Insert into color_ropa (tipo_color) values('Azul');
+Insert into color_ropa (tipo_color) values('Rosa');
+Insert into color_ropa (tipo_color) values('Violeta');
+Insert into color_ropa (tipo_color) values('Cafe');
+Insert into color_ropa (tipo_color) values('Celeste');
+Insert into color_ropa (tipo_color) values('Gris');
+Insert into color_ropa (tipo_color) values('Negro');
+
+
+Insert into estilo_ropa (tipo_estilo) values('Vintage');
+Insert into estilo_ropa (tipo_estilo) values('Urbano');
+Insert into estilo_ropa (tipo_estilo) values('Etiqueta');
+Insert into estilo_ropa (tipo_estilo) values('Aesthetic');
+Insert into estilo_ropa (tipo_estilo) values('Old');
+
+
+insert into ropa (Id_color,Id_tipo,Id_estilo,Talla,Precio,Stock,Disponibilidad) values(3,2,4,’M’,40.50,10,’si’); 
+
+insert into ropa (Id_color,Id_tipo,Id_estilo,Talla,Precio,Stock,Disponibilidad) values(1,5,3,’S’,20.99,22,’si’); 
+
+insert into ropa (Id_color,Id_tipo,Id_estilo,Talla,Precio,Stock,Disponibilidad) values(6,4,1,’XL’,50,0,’no’); 
+
+insert into ropa (Id_color,Id_tipo,Id_estilo,Talla,Precio,Stock,Disponibilidad) values(9,6,3,’XL’,60.30,10,’si’); 
+
+insert into ropa (Id_color,Id_tipo,Id_estilo,Talla,Precio,Stock,Disponibilidad) values(7,4,5,’S’,25,27,’si’); 
+
+insert into ropa (Id_color,Id_tipo,Id_estilo,Talla,Precio,Stock,Disponibilidad) values(8,4,4,’M’,30.50,50,’si’); 
+
+insert into ropa (Id_color,Id_tipo,Id_estilo,Talla,Precio,Stock,Disponibilidad) values(9,9,3,’M’,15.20,2,’si’); 
+
+insert into ropa (Id_color,Id_tipo,Id_estilo,Talla,Precio,Stock,Disponibilidad) values(5,3,2,’S’,60,1,’si’); 
+
+insert into ropa (Id_color,Id_tipo,Id_estilo,Talla,Precio,Stock,Disponibilidad) values(8,1,1,’XL’,22.99,40,’si’); 
+
+insert into ropa (Id_color,Id_tipo,Id_estilo,Talla,Precio,Stock,Disponibilidad) values(2,2,2,’M’,22,2,’si’); 
+
+insert into ropa (Id_color,Id_tipo,Id_estilo,Talla,Precio,Stock,Disponibilidad) values(1,2,3,’XL’,5.50,0,’no’); 
+
+insert into ropa (Id_color,Id_tipo,Id_estilo,Talla,Precio,Stock,Disponibilidad) values(4,9,1,’S’,15,7,’si’); 
+
+insert into ropa (Id_color,Id_tipo,Id_estilo,Talla,Precio,Stock,Disponibilidad) values(9,2,1,’M’,30.50,42,’si’); 

@@ -1,0 +1,6 @@
+Bienvenido Usuario Administrador:
+Porfavor conectar la respectiva base de datos antes de inicializar el sistema
+Tomar en cuenta: 
+->UserName
+->Dbpass
+->DbName
