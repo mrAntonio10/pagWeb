@@ -1,0 +1,71 @@
+.ventana{
+    background: aliceblue;
+    width: 18%;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 540px;
+    top: 80px;
+    border-color: black;
+    display: none;
+}
+#cerrar{
+    position: absolute;
+    right: 3px;
+    top: 1px;
+}
+#cerrar0{
+    position: absolute;
+    right: 3px;
+    top: 1px;
+}
+#cerrar1{
+    position: absolute;
+    right: 3px;
+    top: 1px;
+}
+#cerrar2{
+    position: absolute;
+    right: 3px;
+    top: 1px;
+}
+
+
+
+.pago{
+    background: aliceblue;
+    width: 18%;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 540px;
+    top: 80px;
+    border-color: black;
+    display: none;
+}
+.transferimos{
+    background: aliceblue;
+    width: 18%;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 540px;
+    top: 80px;
+    border-color: black;
+    display: none;
+}
+.QR{
+    background: aliceblue;
+    width: 18%;
+    padding: 33px;
+    min-height: 250px;
+    border-radius: 22px;
+    position: absolute;
+    left: 540px;
+    top: 80px;
+    border-color: black;
+    display: none;
+}
